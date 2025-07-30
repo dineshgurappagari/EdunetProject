@@ -57,36 +57,9 @@ This ML-powered web app allows users to input various employee attributes and pr
 
 ---
 
-## 📊 Visual Comparison
 
-> 📈 Model performance compared via accuracy and ROC-AUC
 
-![Model Comparison](model_comparison.png)
 
----
-
-## 🌐 Live App Demo
-
-👉 [Try it on Streamlit](https://employee-salary-prediction-amanbasu20.streamlit.app/)  
-
----
-
-## 🖥️ How to Run This Project Locally
-
-### 1. Clone the repository
-
-git clone https://github.com/AmanBasu20/employee-salary-prediction.git
-cd employee-salary-prediction
-
-### 2. Install the dependencies
-
-pip install -r requirements.txt
-
-### 3. 3. Run the Streamlit app
-
-streamlit run app.py
-
----
 
 ## 📁 Project Structure
 
